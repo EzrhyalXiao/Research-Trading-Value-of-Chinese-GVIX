@@ -13,4 +13,3 @@ GVIX-based strategies achieve the highest annualized returns of
 GVIX offers effective volatility information for option pricing
 
 - In peer review of Pacific Basin Finance Journal.
-- Access to the complete code is available upon request.
